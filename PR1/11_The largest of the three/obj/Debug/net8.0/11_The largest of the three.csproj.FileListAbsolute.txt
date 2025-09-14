@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\bin\Debug\net8.0\11_The largest of the three.exe
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\bin\Debug\net8.0\11_The largest of the three.deps.json
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\bin\Debug\net8.0\11_The largest of the three.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\bin\Debug\net8.0\11_The largest of the three.dll
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\bin\Debug\net8.0\11_The largest of the three.pdb
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\11_The largest of the three.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\11_The largest of the three.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\11_The largest of the three.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\11_The largest of the three.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\11_The largest of the three.dll
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\refint\11_The largest of the three.dll
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\11_The largest of the three.pdb
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\11_The largest of the three.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\11_The largest of the three\obj\Debug\net8.0\ref\11_The largest of the three.dll

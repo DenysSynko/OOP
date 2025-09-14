@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\bin\Debug\net8.0\14_Calculate N!.exe
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\bin\Debug\net8.0\14_Calculate N!.deps.json
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\bin\Debug\net8.0\14_Calculate N!.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\bin\Debug\net8.0\14_Calculate N!.dll
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\bin\Debug\net8.0\14_Calculate N!.pdb
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\14_Calculate N!.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\14_Calculate N!.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\14_Calculate N!.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\14_Calculate N!.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\14_Calculate N!.dll
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\refint\14_Calculate N!.dll
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\14_Calculate N!.pdb
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\14_Calculate N!.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\14_Calculate N!\obj\Debug\net8.0\ref\14_Calculate N!.dll

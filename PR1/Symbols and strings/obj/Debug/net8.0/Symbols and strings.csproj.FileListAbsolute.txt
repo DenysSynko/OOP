@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\Symbols and strings\bin\Debug\net8.0\Symbols and strings.exe
+D:\Навчання\ООП\PR\PR1\Symbols and strings\bin\Debug\net8.0\Symbols and strings.deps.json
+D:\Навчання\ООП\PR\PR1\Symbols and strings\bin\Debug\net8.0\Symbols and strings.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\Symbols and strings\bin\Debug\net8.0\Symbols and strings.dll
+D:\Навчання\ООП\PR\PR1\Symbols and strings\bin\Debug\net8.0\Symbols and strings.pdb
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\Symbols and strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\Symbols and strings.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\Symbols and strings.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\Symbols and strings.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\Symbols and strings.dll
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\refint\Symbols and strings.dll
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\Symbols and strings.pdb
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\Symbols and strings.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\Symbols and strings\obj\Debug\net8.0\ref\Symbols and strings.dll

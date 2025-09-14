@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\bin\Debug\net8.0\12_The sign of multiplication.exe
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\bin\Debug\net8.0\12_The sign of multiplication.deps.json
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\bin\Debug\net8.0\12_The sign of multiplication.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\bin\Debug\net8.0\12_The sign of multiplication.dll
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\bin\Debug\net8.0\12_The sign of multiplication.pdb
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\12_The sign of multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\12_The sign of multiplication.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\12_The sign of multiplication.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\12_The sign of multiplication.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\12_The sign of multiplication.dll
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\refint\12_The sign of multiplication.dll
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\12_The sign of multiplication.pdb
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\12_The sign of multiplication.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\12_The sign of multiplication\obj\Debug\net8.0\ref\12_The sign of multiplication.dll

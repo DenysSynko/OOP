@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\bin\Debug\net8.0\1_PrintYourColor.exe
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\bin\Debug\net8.0\1_PrintYourColor.deps.json
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\bin\Debug\net8.0\1_PrintYourColor.runtimeconfig.json
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\bin\Debug\net8.0\1_PrintYourColor.dll
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\bin\Debug\net8.0\1_PrintYourColor.pdb
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\1_PrintYourColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\1_PrintYourColor.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\1_PrintYourColor.AssemblyInfo.cs
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\1_PrintYourColor.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\1_PrintYourColor.dll
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\refint\1_PrintYourColor.dll
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\1_PrintYourColor.pdb
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\1_PrintYourColor.genruntimeconfig.cache
+D:\Навчання\ООП\PR\pr1\1_PrintYourColor\obj\Debug\net8.0\ref\1_PrintYourColor.dll

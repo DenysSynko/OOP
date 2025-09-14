@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\Average\bin\Debug\net8.0\Average.exe
+D:\Навчання\ООП\PR\PR1\Average\bin\Debug\net8.0\Average.deps.json
+D:\Навчання\ООП\PR\PR1\Average\bin\Debug\net8.0\Average.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\Average\bin\Debug\net8.0\Average.dll
+D:\Навчання\ООП\PR\PR1\Average\bin\Debug\net8.0\Average.pdb
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\Average.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\Average.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\Average.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\Average.dll
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\refint\Average.dll
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\Average.pdb
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\Average.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\Average\obj\Debug\net8.0\ref\Average.dll

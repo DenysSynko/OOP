@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\n-th digit\bin\Debug\net8.0\8_n-th digit.exe
+D:\Навчання\ООП\PR\PR1\n-th digit\bin\Debug\net8.0\8_n-th digit.deps.json
+D:\Навчання\ООП\PR\PR1\n-th digit\bin\Debug\net8.0\8_n-th digit.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\n-th digit\bin\Debug\net8.0\8_n-th digit.dll
+D:\Навчання\ООП\PR\PR1\n-th digit\bin\Debug\net8.0\8_n-th digit.pdb
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\8_n-th digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\8_n-th digit.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\8_n-th digit.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\8_n-th digit.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\8_n-th digit.dll
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\refint\8_n-th digit.dll
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\8_n-th digit.pdb
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\8_n-th digit.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\n-th digit\obj\Debug\net8.0\ref\8_n-th digit.dll

@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\bin\Debug\net8.0\13_Number as day of the week.exe
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\bin\Debug\net8.0\13_Number as day of the week.deps.json
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\bin\Debug\net8.0\13_Number as day of the week.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\bin\Debug\net8.0\13_Number as day of the week.dll
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\bin\Debug\net8.0\13_Number as day of the week.pdb
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\13_Number as day of the week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\13_Number as day of the week.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\13_Number as day of the week.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\13_Number as day of the week.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\13_Number as day of the week.dll
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\refint\13_Number as day of the week.dll
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\13_Number as day of the week.pdb
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\13_Number as day of the week.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\13_Number as day of the week\obj\Debug\net8.0\ref\13_Number as day of the week.dll

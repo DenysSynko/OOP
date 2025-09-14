@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\Last digit\bin\Debug\net8.0\Last digit.exe
+D:\Навчання\ООП\PR\PR1\Last digit\bin\Debug\net8.0\Last digit.deps.json
+D:\Навчання\ООП\PR\PR1\Last digit\bin\Debug\net8.0\Last digit.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\Last digit\bin\Debug\net8.0\Last digit.dll
+D:\Навчання\ООП\PR\PR1\Last digit\bin\Debug\net8.0\Last digit.pdb
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\Last digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\Last digit.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\Last digit.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\Last digit.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\Last digit.dll
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\refint\Last digit.dll
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\Last digit.pdb
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\Last digit.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\Last digit\obj\Debug\net8.0\ref\Last digit.dll

@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\Trapezium\bin\Debug\net8.0\Trapezium.exe
+D:\Навчання\ООП\PR\PR1\Trapezium\bin\Debug\net8.0\Trapezium.deps.json
+D:\Навчання\ООП\PR\PR1\Trapezium\bin\Debug\net8.0\Trapezium.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\Trapezium\bin\Debug\net8.0\Trapezium.dll
+D:\Навчання\ООП\PR\PR1\Trapezium\bin\Debug\net8.0\Trapezium.pdb
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\Trapezium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\Trapezium.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\Trapezium.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\Trapezium.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\Trapezium.dll
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\refint\Trapezium.dll
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\Trapezium.pdb
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\Trapezium.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\Trapezium\obj\Debug\net8.0\ref\Trapezium.dll

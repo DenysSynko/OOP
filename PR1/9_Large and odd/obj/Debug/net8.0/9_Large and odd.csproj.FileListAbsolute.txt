@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\9_Large and odd\bin\Debug\net8.0\9_Large and odd.exe
+D:\Навчання\ООП\PR\PR1\9_Large and odd\bin\Debug\net8.0\9_Large and odd.deps.json
+D:\Навчання\ООП\PR\PR1\9_Large and odd\bin\Debug\net8.0\9_Large and odd.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\9_Large and odd\bin\Debug\net8.0\9_Large and odd.dll
+D:\Навчання\ООП\PR\PR1\9_Large and odd\bin\Debug\net8.0\9_Large and odd.pdb
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\9_Large and odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\9_Large and odd.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\9_Large and odd.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\9_Large and odd.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\9_Large and odd.dll
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\refint\9_Large and odd.dll
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\9_Large and odd.pdb
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\9_Large and odd.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\9_Large and odd\obj\Debug\net8.0\ref\9_Large and odd.dll

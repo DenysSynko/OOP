@@ -1,0 +1,14 @@
+D:\Навчання\ООП\PR\PR1\10_Pure divider\bin\Debug\net8.0\10_Pure divider.exe
+D:\Навчання\ООП\PR\PR1\10_Pure divider\bin\Debug\net8.0\10_Pure divider.deps.json
+D:\Навчання\ООП\PR\PR1\10_Pure divider\bin\Debug\net8.0\10_Pure divider.runtimeconfig.json
+D:\Навчання\ООП\PR\PR1\10_Pure divider\bin\Debug\net8.0\10_Pure divider.dll
+D:\Навчання\ООП\PR\PR1\10_Pure divider\bin\Debug\net8.0\10_Pure divider.pdb
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\10_Pure divider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\10_Pure divider.AssemblyInfoInputs.cache
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\10_Pure divider.AssemblyInfo.cs
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\10_Pure divider.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\10_Pure divider.dll
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\refint\10_Pure divider.dll
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\10_Pure divider.pdb
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\10_Pure divider.genruntimeconfig.cache
+D:\Навчання\ООП\PR\PR1\10_Pure divider\obj\Debug\net8.0\ref\10_Pure divider.dll
