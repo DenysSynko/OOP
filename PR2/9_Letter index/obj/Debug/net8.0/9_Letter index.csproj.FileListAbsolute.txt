@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\9_Letter index\bin\Debug\net8.0\9_Letter index.exe
+D:\Study\OOP\PR\PR2\9_Letter index\bin\Debug\net8.0\9_Letter index.deps.json
+D:\Study\OOP\PR\PR2\9_Letter index\bin\Debug\net8.0\9_Letter index.runtimeconfig.json
+D:\Study\OOP\PR\PR2\9_Letter index\bin\Debug\net8.0\9_Letter index.dll
+D:\Study\OOP\PR\PR2\9_Letter index\bin\Debug\net8.0\9_Letter index.pdb
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\9_Letter index.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\9_Letter index.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\9_Letter index.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\9_Letter index.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\9_Letter index.sourcelink.json
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\9_Letter index.dll
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\refint\9_Letter index.dll
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\9_Letter index.pdb
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\9_Letter index.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\9_Letter index\obj\Debug\net8.0\ref\9_Letter index.dll

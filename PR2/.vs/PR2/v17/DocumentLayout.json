@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\OOP\\PR\\PR2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D9A2AE-4F8E-4009-967E-B57199520067}|5_Comparing char arrays\\5_Comparing char arrays.csproj|d:\\study\\oop\\pr\\pr2\\5_comparing char arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D9A2AE-4F8E-4009-967E-B57199520067}|5_Comparing char arrays\\5_Comparing char arrays.csproj|solutionrelative:5_comparing char arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E043B491-4F52-4E83-9FE6-3E2D91CFF3C5}|6_Maximum sequence\\6_Maximum sequence.csproj|d:\\study\\oop\\pr\\pr2\\6_maximum sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E043B491-4F52-4E83-9FE6-3E2D91CFF3C5}|6_Maximum sequence\\6_Maximum sequence.csproj|solutionrelative:6_maximum sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAD86C1-156A-4C7F-9434-6FC68A810D62}|1_largest common end\\1_largest common end.csproj|d:\\study\\oop\\pr\\pr2\\1_largest common end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAD86C1-156A-4C7F-9434-6FC68A810D62}|1_largest common end\\1_largest common end.csproj|solutionrelative:1_largest common end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A02CA54-4F13-4216-B91A-EA0300C2109E}|2_rotate and sum\\2_rotate and sum.csproj|d:\\study\\oop\\pr\\pr2\\2_rotate and sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A02CA54-4F13-4216-B91A-EA0300C2109E}|2_rotate and sum\\2_rotate and sum.csproj|solutionrelative:2_rotate and sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9284B4D7-BC18-4CEF-83BC-E07478AEB70C}|10_Pairs by difference\\10_Pairs by difference.csproj|d:\\study\\oop\\pr\\pr2\\10_pairs by difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9284B4D7-BC18-4CEF-83BC-E07478AEB70C}|10_Pairs by difference\\10_Pairs by difference.csproj|solutionrelative:10_pairs by difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC8A809-36DF-4FF5-B86A-45CA149158EA}|7_Maximum sequence of ascending\\7_Maximum sequence of ascending.csproj|d:\\study\\oop\\pr\\pr2\\7_maximum sequence of ascending\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC8A809-36DF-4FF5-B86A-45CA149158EA}|7_Maximum sequence of ascending\\7_Maximum sequence of ascending.csproj|solutionrelative:7_maximum sequence of ascending\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE1DE9-3A67-4931-8822-BFEB6DA476EA}|4_Eratosthenes\u0027 sieve\\4_Eratosthenes\u0027 sieve.csproj|d:\\study\\oop\\pr\\pr2\\4_eratosthenes\u0027 sieve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE1DE9-3A67-4931-8822-BFEB6DA476EA}|4_Eratosthenes\u0027 sieve\\4_Eratosthenes\u0027 sieve.csproj|solutionrelative:4_eratosthenes\u0027 sieve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097EE0D2-4552-4959-8ADC-CC2F5FF40BFC}|3_Compile and summarize\\3_Compile and summarize.csproj|d:\\study\\oop\\pr\\pr2\\3_compile and summarize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097EE0D2-4552-4959-8ADC-CC2F5FF40BFC}|3_Compile and summarize\\3_Compile and summarize.csproj|solutionrelative:3_compile and summarize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4ADD97-895E-42D0-B772-2B635B77CD92}|9_Letter index\\9_Letter index.csproj|d:\\study\\oop\\pr\\pr2\\9_letter index\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4ADD97-895E-42D0-B772-2B635B77CD92}|9_Letter index\\9_Letter index.csproj|solutionrelative:9_letter index\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3528F3-43BC-4F11-9547-1D988FD4C082}|8_Most often number\\8_Most often number.csproj|d:\\study\\oop\\pr\\pr2\\8_most often number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3528F3-43BC-4F11-9547-1D988FD4C082}|8_Most often number\\8_Most often number.csproj|solutionrelative:8_most often number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\10_Pairs by difference\\Program.cs",
+              "RelativeDocumentMoniker": "10_Pairs by difference\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\10_Pairs by difference\\Program.cs",
+              "RelativeToolTip": "10_Pairs by difference\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:32:54.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\4_Eratosthenes\u0027 sieve\\Program.cs",
+              "RelativeDocumentMoniker": "4_Eratosthenes\u0027 sieve\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\4_Eratosthenes\u0027 sieve\\Program.cs",
+              "RelativeToolTip": "4_Eratosthenes\u0027 sieve\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:28:12.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\5_Comparing char arrays\\Program.cs",
+              "RelativeDocumentMoniker": "5_Comparing char arrays\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\5_Comparing char arrays\\Program.cs",
+              "RelativeToolTip": "5_Comparing char arrays\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAywBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:28:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\6_Maximum sequence\\Program.cs",
+              "RelativeDocumentMoniker": "6_Maximum sequence\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\6_Maximum sequence\\Program.cs",
+              "RelativeToolTip": "6_Maximum sequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:29:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\7_Maximum sequence of ascending\\Program.cs",
+              "RelativeDocumentMoniker": "7_Maximum sequence of ascending\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\7_Maximum sequence of ascending\\Program.cs",
+              "RelativeToolTip": "7_Maximum sequence of ascending\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:30:13.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\2_rotate and sum\\Program.cs",
+              "RelativeDocumentMoniker": "2_rotate and sum\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\2_rotate and sum\\Program.cs",
+              "RelativeToolTip": "2_rotate and sum\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:25:02.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\1_largest common end\\Program.cs",
+              "RelativeDocumentMoniker": "1_largest common end\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\1_largest common end\\Program.cs",
+              "RelativeToolTip": "1_largest common end\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:13:19.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\3_Compile and summarize\\Program.cs",
+              "RelativeDocumentMoniker": "3_Compile and summarize\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\3_Compile and summarize\\Program.cs",
+              "RelativeToolTip": "3_Compile and summarize\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:27:02.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\9_Letter index\\Program.cs",
+              "RelativeDocumentMoniker": "9_Letter index\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\9_Letter index\\Program.cs",
+              "RelativeToolTip": "9_Letter index\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:32:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR2\\8_Most often number\\Program.cs",
+              "RelativeDocumentMoniker": "8_Most often number\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR2\\8_Most often number\\Program.cs",
+              "RelativeToolTip": "8_Most often number\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:31:53.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

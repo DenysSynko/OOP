@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\n-th digit\\8_n-th digit.csproj": {}
+    "D:\\Study\\OOP\\PR\\PR1\\n-th digit\\8_n-th digit.csproj": {}
   },
   "projects": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\n-th digit\\8_n-th digit.csproj": {
+    "D:\\Study\\OOP\\PR\\PR1\\n-th digit\\8_n-th digit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Навчання\\ООП\\PR\\PR1\\n-th digit\\8_n-th digit.csproj",
+        "projectUniqueName": "D:\\Study\\OOP\\PR\\PR1\\n-th digit\\8_n-th digit.csproj",
         "projectName": "8_n-th digit",
-        "projectPath": "D:\\Навчання\\ООП\\PR\\PR1\\n-th digit\\8_n-th digit.csproj",
+        "projectPath": "D:\\Study\\OOP\\PR\\PR1\\n-th digit\\8_n-th digit.csproj",
         "packagesPath": "C:\\Users\\Yellow\\.nuget\\packages\\",
-        "outputPath": "D:\\Навчання\\ООП\\PR\\PR1\\n-th digit\\obj\\",
+        "outputPath": "D:\\Study\\OOP\\PR\\PR1\\n-th digit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

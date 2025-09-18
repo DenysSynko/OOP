@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\bin\Debug\net8.0\7_Maximum sequence of ascending.exe
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\bin\Debug\net8.0\7_Maximum sequence of ascending.deps.json
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\bin\Debug\net8.0\7_Maximum sequence of ascending.runtimeconfig.json
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\bin\Debug\net8.0\7_Maximum sequence of ascending.dll
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\bin\Debug\net8.0\7_Maximum sequence of ascending.pdb
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\7_Maximum sequence of ascending.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\7_Maximum sequence of ascending.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\7_Maximum sequence of ascending.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\7_Maximum sequence of ascending.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\7_Maximum sequence of ascending.sourcelink.json
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\7_Maximum sequence of ascending.dll
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\refint\7_Maximum sequence of ascending.dll
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\7_Maximum sequence of ascending.pdb
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\7_Maximum sequence of ascending.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\7_Maximum sequence of ascending\obj\Debug\net8.0\ref\7_Maximum sequence of ascending.dll

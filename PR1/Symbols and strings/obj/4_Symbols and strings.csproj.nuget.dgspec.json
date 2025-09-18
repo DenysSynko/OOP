@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\Symbols and strings\\4_Symbols and strings.csproj": {}
+    "D:\\Study\\OOP\\PR\\PR1\\Symbols and strings\\4_Symbols and strings.csproj": {}
   },
   "projects": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\Symbols and strings\\4_Symbols and strings.csproj": {
+    "D:\\Study\\OOP\\PR\\PR1\\Symbols and strings\\4_Symbols and strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Навчання\\ООП\\PR\\PR1\\Symbols and strings\\4_Symbols and strings.csproj",
+        "projectUniqueName": "D:\\Study\\OOP\\PR\\PR1\\Symbols and strings\\4_Symbols and strings.csproj",
         "projectName": "4_Symbols and strings",
-        "projectPath": "D:\\Навчання\\ООП\\PR\\PR1\\Symbols and strings\\4_Symbols and strings.csproj",
+        "projectPath": "D:\\Study\\OOP\\PR\\PR1\\Symbols and strings\\4_Symbols and strings.csproj",
         "packagesPath": "C:\\Users\\Yellow\\.nuget\\packages\\",
-        "outputPath": "D:\\Навчання\\ООП\\PR\\PR1\\Symbols and strings\\obj\\",
+        "outputPath": "D:\\Study\\OOP\\PR\\PR1\\Symbols and strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\6_Maximum sequence\bin\Debug\net8.0\6_Maximum sequence.exe
+D:\Study\OOP\PR\PR2\6_Maximum sequence\bin\Debug\net8.0\6_Maximum sequence.deps.json
+D:\Study\OOP\PR\PR2\6_Maximum sequence\bin\Debug\net8.0\6_Maximum sequence.runtimeconfig.json
+D:\Study\OOP\PR\PR2\6_Maximum sequence\bin\Debug\net8.0\6_Maximum sequence.dll
+D:\Study\OOP\PR\PR2\6_Maximum sequence\bin\Debug\net8.0\6_Maximum sequence.pdb
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\6_Maximum sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\6_Maximum sequence.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\6_Maximum sequence.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\6_Maximum sequence.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\6_Maximum sequence.sourcelink.json
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\6_Maximum sequence.dll
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\refint\6_Maximum sequence.dll
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\6_Maximum sequence.pdb
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\6_Maximum sequence.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\6_Maximum sequence\obj\Debug\net8.0\ref\6_Maximum sequence.dll

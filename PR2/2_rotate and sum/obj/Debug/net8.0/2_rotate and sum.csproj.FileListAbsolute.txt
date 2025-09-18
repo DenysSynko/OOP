@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\2_rotate and sum\bin\Debug\net8.0\2_rotate and sum.exe
+D:\Study\OOP\PR\PR2\2_rotate and sum\bin\Debug\net8.0\2_rotate and sum.deps.json
+D:\Study\OOP\PR\PR2\2_rotate and sum\bin\Debug\net8.0\2_rotate and sum.runtimeconfig.json
+D:\Study\OOP\PR\PR2\2_rotate and sum\bin\Debug\net8.0\2_rotate and sum.dll
+D:\Study\OOP\PR\PR2\2_rotate and sum\bin\Debug\net8.0\2_rotate and sum.pdb
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\2_rotate and sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\2_rotate and sum.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\2_rotate and sum.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\2_rotate and sum.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\2_rotate and sum.sourcelink.json
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\2_rotate and sum.dll
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\refint\2_rotate and sum.dll
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\2_rotate and sum.pdb
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\2_rotate and sum.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\2_rotate and sum\obj\Debug\net8.0\ref\2_rotate and sum.dll

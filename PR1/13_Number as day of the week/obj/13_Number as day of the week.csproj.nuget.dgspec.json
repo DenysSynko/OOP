@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\13_Number as day of the week\\13_Number as day of the week.csproj": {}
+    "D:\\Study\\OOP\\PR\\PR1\\13_Number as day of the week\\13_Number as day of the week.csproj": {}
   },
   "projects": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\13_Number as day of the week\\13_Number as day of the week.csproj": {
+    "D:\\Study\\OOP\\PR\\PR1\\13_Number as day of the week\\13_Number as day of the week.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Навчання\\ООП\\PR\\PR1\\13_Number as day of the week\\13_Number as day of the week.csproj",
+        "projectUniqueName": "D:\\Study\\OOP\\PR\\PR1\\13_Number as day of the week\\13_Number as day of the week.csproj",
         "projectName": "13_Number as day of the week",
-        "projectPath": "D:\\Навчання\\ООП\\PR\\PR1\\13_Number as day of the week\\13_Number as day of the week.csproj",
+        "projectPath": "D:\\Study\\OOP\\PR\\PR1\\13_Number as day of the week\\13_Number as day of the week.csproj",
         "packagesPath": "C:\\Users\\Yellow\\.nuget\\packages\\",
-        "outputPath": "D:\\Навчання\\ООП\\PR\\PR1\\13_Number as day of the week\\obj\\",
+        "outputPath": "D:\\Study\\OOP\\PR\\PR1\\13_Number as day of the week\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

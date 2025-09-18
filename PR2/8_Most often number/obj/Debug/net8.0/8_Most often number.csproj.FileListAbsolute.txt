@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\8_Most often number\bin\Debug\net8.0\8_Most often number.exe
+D:\Study\OOP\PR\PR2\8_Most often number\bin\Debug\net8.0\8_Most often number.deps.json
+D:\Study\OOP\PR\PR2\8_Most often number\bin\Debug\net8.0\8_Most often number.runtimeconfig.json
+D:\Study\OOP\PR\PR2\8_Most often number\bin\Debug\net8.0\8_Most often number.dll
+D:\Study\OOP\PR\PR2\8_Most often number\bin\Debug\net8.0\8_Most often number.pdb
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\8_Most often number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\8_Most often number.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\8_Most often number.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\8_Most often number.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\8_Most often number.sourcelink.json
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\8_Most often number.dll
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\refint\8_Most often number.dll
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\8_Most often number.pdb
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\8_Most often number.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\8_Most often number\obj\Debug\net8.0\ref\8_Most often number.dll

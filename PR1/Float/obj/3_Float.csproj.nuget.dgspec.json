@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\Float\\3_Float.csproj": {}
+    "D:\\Study\\OOP\\PR\\PR1\\Float\\3_Float.csproj": {}
   },
   "projects": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\Float\\3_Float.csproj": {
+    "D:\\Study\\OOP\\PR\\PR1\\Float\\3_Float.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Навчання\\ООП\\PR\\PR1\\Float\\3_Float.csproj",
+        "projectUniqueName": "D:\\Study\\OOP\\PR\\PR1\\Float\\3_Float.csproj",
         "projectName": "3_Float",
-        "projectPath": "D:\\Навчання\\ООП\\PR\\PR1\\Float\\3_Float.csproj",
+        "projectPath": "D:\\Study\\OOP\\PR\\PR1\\Float\\3_Float.csproj",
         "packagesPath": "C:\\Users\\Yellow\\.nuget\\packages\\",
-        "outputPath": "D:\\Навчання\\ООП\\PR\\PR1\\Float\\obj\\",
+        "outputPath": "D:\\Study\\OOP\\PR\\PR1\\Float\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

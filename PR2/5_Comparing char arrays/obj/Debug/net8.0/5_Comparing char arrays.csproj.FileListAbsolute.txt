@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\bin\Debug\net8.0\5_Comparing char arrays.exe
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\bin\Debug\net8.0\5_Comparing char arrays.deps.json
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\bin\Debug\net8.0\5_Comparing char arrays.runtimeconfig.json
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\bin\Debug\net8.0\5_Comparing char arrays.dll
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\bin\Debug\net8.0\5_Comparing char arrays.pdb
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\5_Comparing char arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\5_Comparing char arrays.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\5_Comparing char arrays.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\5_Comparing char arrays.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\5_Comparing char arrays.sourcelink.json
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\5_Comparing char arrays.dll
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\refint\5_Comparing char arrays.dll
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\5_Comparing char arrays.pdb
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\5_Comparing char arrays.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\5_Comparing char arrays\obj\Debug\net8.0\ref\5_Comparing char arrays.dll

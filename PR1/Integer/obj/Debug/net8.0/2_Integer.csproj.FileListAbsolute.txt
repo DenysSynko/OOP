@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR1\Integer\bin\Debug\net8.0\2_Integer.exe
+D:\Study\OOP\PR\PR1\Integer\bin\Debug\net8.0\2_Integer.deps.json
+D:\Study\OOP\PR\PR1\Integer\bin\Debug\net8.0\2_Integer.runtimeconfig.json
+D:\Study\OOP\PR\PR1\Integer\bin\Debug\net8.0\2_Integer.dll
+D:\Study\OOP\PR\PR1\Integer\bin\Debug\net8.0\2_Integer.pdb
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\2_Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\2_Integer.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\2_Integer.AssemblyInfo.cs
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\2_Integer.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\2_Integer.sourcelink.json
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\2_Integer.dll
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\refint\2_Integer.dll
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\2_Integer.pdb
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\2_Integer.genruntimeconfig.cache
+D:\Study\OOP\PR\PR1\Integer\obj\Debug\net8.0\ref\2_Integer.dll

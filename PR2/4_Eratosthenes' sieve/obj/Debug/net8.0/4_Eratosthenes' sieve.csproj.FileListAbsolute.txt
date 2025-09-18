@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\bin\Debug\net8.0\4_Eratosthenes' sieve.exe
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\bin\Debug\net8.0\4_Eratosthenes' sieve.deps.json
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\bin\Debug\net8.0\4_Eratosthenes' sieve.runtimeconfig.json
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\bin\Debug\net8.0\4_Eratosthenes' sieve.dll
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\bin\Debug\net8.0\4_Eratosthenes' sieve.pdb
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\4_Eratosthenes' sieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\4_Eratosthenes' sieve.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\4_Eratosthenes' sieve.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\4_Eratosthenes' sieve.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\4_Eratosthenes' sieve.sourcelink.json
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\4_Eratosthenes' sieve.dll
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\refint\4_Eratosthenes' sieve.dll
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\4_Eratosthenes' sieve.pdb
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\4_Eratosthenes' sieve.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\4_Eratosthenes' sieve\obj\Debug\net8.0\ref\4_Eratosthenes' sieve.dll

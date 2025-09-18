@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\10_Pure divider\\10_Pure divider.csproj": {}
+    "D:\\Study\\OOP\\PR\\PR1\\10_Pure divider\\10_Pure divider.csproj": {}
   },
   "projects": {
-    "D:\\Навчання\\ООП\\PR\\PR1\\10_Pure divider\\10_Pure divider.csproj": {
+    "D:\\Study\\OOP\\PR\\PR1\\10_Pure divider\\10_Pure divider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Навчання\\ООП\\PR\\PR1\\10_Pure divider\\10_Pure divider.csproj",
+        "projectUniqueName": "D:\\Study\\OOP\\PR\\PR1\\10_Pure divider\\10_Pure divider.csproj",
         "projectName": "10_Pure divider",
-        "projectPath": "D:\\Навчання\\ООП\\PR\\PR1\\10_Pure divider\\10_Pure divider.csproj",
+        "projectPath": "D:\\Study\\OOP\\PR\\PR1\\10_Pure divider\\10_Pure divider.csproj",
         "packagesPath": "C:\\Users\\Yellow\\.nuget\\packages\\",
-        "outputPath": "D:\\Навчання\\ООП\\PR\\PR1\\10_Pure divider\\obj\\",
+        "outputPath": "D:\\Study\\OOP\\PR\\PR1\\10_Pure divider\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

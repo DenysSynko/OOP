@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\",
+  "WorkspaceRootPath": "D:\\Study\\OOP\\PR\\PR1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E243B953-809B-4019-996E-85CF85500EB8}|n-th digit\\n-th digit.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\n-th digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E243B953-809B-4019-996E-85CF85500EB8}|n-th digit\\n-th digit.csproj|solutionrelative:n-th digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AECC9F3-942F-4F04-9C5E-27776FEC8CBE}|14_Calculate N!\\14_Calculate N!.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\14_calculate n!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AECC9F3-942F-4F04-9C5E-27776FEC8CBE}|14_Calculate N!\\14_Calculate N!.csproj|solutionrelative:14_calculate n!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8490AEA-24B8-4250-BB05-352F24049BB3}|13_Number as day of the week\\13_Number as day of the week.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\13_number as day of the week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8490AEA-24B8-4250-BB05-352F24049BB3}|13_Number as day of the week\\13_Number as day of the week.csproj|solutionrelative:13_number as day of the week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF7618D-082A-48A7-ACBB-A77B6ED6B8DD}|12_The sign of multiplication\\12_The sign of multiplication.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\12_the sign of multiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF7618D-082A-48A7-ACBB-A77B6ED6B8DD}|12_The sign of multiplication\\12_The sign of multiplication.csproj|solutionrelative:12_the sign of multiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CC561E7-88A7-467F-94A8-DCC7A0CE503D}|11_The largest of the three\\11_The largest of the three.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\11_the largest of the three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CC561E7-88A7-467F-94A8-DCC7A0CE503D}|11_The largest of the three\\11_The largest of the three.csproj|solutionrelative:11_the largest of the three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9678302D-AE37-46BF-AEDA-BB493C74184A}|10_Pure divider\\10_Pure divider.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\10_pure divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9678302D-AE37-46BF-AEDA-BB493C74184A}|10_Pure divider\\10_Pure divider.csproj|solutionrelative:10_pure divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069A1716-33C9-4E72-ABD5-03351E32BA24}|1_PrintYourColor\\1_PrintYourColor.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\1_printyourcolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069A1716-33C9-4E72-ABD5-03351E32BA24}|1_PrintYourColor\\1_PrintYourColor.csproj|d:\\study\\oop\\pr\\pr1\\1_printyourcolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069A1716-33C9-4E72-ABD5-03351E32BA24}|1_PrintYourColor\\1_PrintYourColor.csproj|solutionrelative:1_printyourcolor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98E17D4D-7C11-439A-99E4-15E88611B2EF}|9_Large and odd\\9_Large and odd.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\9_large and odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66064CBC-9111-4DAD-84F7-AB7809152516}|Trapezium\\6_Trapezium.csproj|d:\\study\\oop\\pr\\pr1\\trapezium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66064CBC-9111-4DAD-84F7-AB7809152516}|Trapezium\\6_Trapezium.csproj|solutionrelative:trapezium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E243B953-809B-4019-996E-85CF85500EB8}|n-th digit\\8_n-th digit.csproj|d:\\study\\oop\\pr\\pr1\\n-th digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E243B953-809B-4019-996E-85CF85500EB8}|n-th digit\\8_n-th digit.csproj|solutionrelative:n-th digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D669E3D-36F9-4E57-965C-B39C1705A616}|Symbols and strings\\4_Symbols and strings.csproj|d:\\study\\oop\\pr\\pr1\\symbols and strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D669E3D-36F9-4E57-965C-B39C1705A616}|Symbols and strings\\4_Symbols and strings.csproj|solutionrelative:symbols and strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AECC9F3-942F-4F04-9C5E-27776FEC8CBE}|14_Calculate N!\\14_Calculate N!.csproj|d:\\study\\oop\\pr\\pr1\\14_calculate n!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AECC9F3-942F-4F04-9C5E-27776FEC8CBE}|14_Calculate N!\\14_Calculate N!.csproj|solutionrelative:14_calculate n!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8490AEA-24B8-4250-BB05-352F24049BB3}|13_Number as day of the week\\13_Number as day of the week.csproj|d:\\study\\oop\\pr\\pr1\\13_number as day of the week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8490AEA-24B8-4250-BB05-352F24049BB3}|13_Number as day of the week\\13_Number as day of the week.csproj|solutionrelative:13_number as day of the week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7618D-082A-48A7-ACBB-A77B6ED6B8DD}|12_The sign of multiplication\\12_The sign of multiplication.csproj|d:\\study\\oop\\pr\\pr1\\12_the sign of multiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7618D-082A-48A7-ACBB-A77B6ED6B8DD}|12_The sign of multiplication\\12_The sign of multiplication.csproj|solutionrelative:12_the sign of multiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC561E7-88A7-467F-94A8-DCC7A0CE503D}|11_The largest of the three\\11_The largest of the three.csproj|d:\\study\\oop\\pr\\pr1\\11_the largest of the three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC561E7-88A7-467F-94A8-DCC7A0CE503D}|11_The largest of the three\\11_The largest of the three.csproj|solutionrelative:11_the largest of the three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9678302D-AE37-46BF-AEDA-BB493C74184A}|10_Pure divider\\10_Pure divider.csproj|d:\\study\\oop\\pr\\pr1\\10_pure divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9678302D-AE37-46BF-AEDA-BB493C74184A}|10_Pure divider\\10_Pure divider.csproj|solutionrelative:10_pure divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E17D4D-7C11-439A-99E4-15E88611B2EF}|9_Large and odd\\9_Large and odd.csproj|d:\\study\\oop\\pr\\pr1\\9_large and odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98E17D4D-7C11-439A-99E4-15E88611B2EF}|9_Large and odd\\9_Large and odd.csproj|solutionrelative:9_large and odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5262424D-DA09-470D-B11A-087AE9DF9BC3}|Last digit\\Last digit.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\last digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5262424D-DA09-470D-B11A-087AE9DF9BC3}|Last digit\\Last digit.csproj|solutionrelative:last digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5262424D-DA09-470D-B11A-087AE9DF9BC3}|Last digit\\7_Last digit.csproj|d:\\study\\oop\\pr\\pr1\\last digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262424D-DA09-470D-B11A-087AE9DF9BC3}|Last digit\\7_Last digit.csproj|solutionrelative:last digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66064CBC-9111-4DAD-84F7-AB7809152516}|Trapezium\\Trapezium.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\trapezium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66064CBC-9111-4DAD-84F7-AB7809152516}|Trapezium\\Trapezium.csproj|solutionrelative:trapezium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE7E7D2E-196D-4BD2-9AF6-D73F47861769}|Average\\5_Average.csproj|d:\\study\\oop\\pr\\pr1\\average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7E7D2E-196D-4BD2-9AF6-D73F47861769}|Average\\5_Average.csproj|solutionrelative:average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7E7D2E-196D-4BD2-9AF6-D73F47861769}|Average\\Average.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE7E7D2E-196D-4BD2-9AF6-D73F47861769}|Average\\Average.csproj|solutionrelative:average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6E927CA-DFEC-40B5-8E06-8BD3BAE43F3B}|Float\\3_Float.csproj|d:\\study\\oop\\pr\\pr1\\float\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E927CA-DFEC-40B5-8E06-8BD3BAE43F3B}|Float\\3_Float.csproj|solutionrelative:float\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D669E3D-36F9-4E57-965C-B39C1705A616}|Symbols and strings\\Symbols and strings.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\symbols and strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D669E3D-36F9-4E57-965C-B39C1705A616}|Symbols and strings\\Symbols and strings.csproj|solutionrelative:symbols and strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6E927CA-DFEC-40B5-8E06-8BD3BAE43F3B}|Float\\Float.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\float\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6E927CA-DFEC-40B5-8E06-8BD3BAE43F3B}|Float\\Float.csproj|solutionrelative:float\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{773B155F-33E3-4E7F-BAB9-398EEAA7CC20}|Integer\\Integer.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\pr\\pr1\\integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{773B155F-33E3-4E7F-BAB9-398EEAA7CC20}|Integer\\Integer.csproj|solutionrelative:integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{773B155F-33E3-4E7F-BAB9-398EEAA7CC20}|Integer\\2_Integer.csproj|d:\\study\\oop\\pr\\pr1\\integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773B155F-33E3-4E7F-BAB9-398EEAA7CC20}|Integer\\2_Integer.csproj|solutionrelative:integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,119 +70,71 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\14_Calculate N!\\Program.cs",
-              "RelativeDocumentMoniker": "14_Calculate N!\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\14_Calculate N!\\Program.cs",
-              "RelativeToolTip": "14_Calculate N!\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T21:04:07.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\13_Number as day of the week\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\13_Number as day of the week\\Program.cs",
               "RelativeDocumentMoniker": "13_Number as day of the week\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\13_Number as day of the week\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\13_Number as day of the week\\Program.cs",
               "RelativeToolTip": "13_Number as day of the week\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T20:49:46.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T20:49:46.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\12_The sign of multiplication\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\12_The sign of multiplication\\Program.cs",
               "RelativeDocumentMoniker": "12_The sign of multiplication\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\12_The sign of multiplication\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\12_The sign of multiplication\\Program.cs",
               "RelativeToolTip": "12_The sign of multiplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T20:20:31.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\11_The largest of the three\\Program.cs",
-              "RelativeDocumentMoniker": "11_The largest of the three\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\11_The largest of the three\\Program.cs",
-              "RelativeToolTip": "11_The largest of the three\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T20:07:20.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\10_Pure divider\\Program.cs",
-              "RelativeDocumentMoniker": "10_Pure divider\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\10_Pure divider\\Program.cs",
-              "RelativeToolTip": "10_Pure divider\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T20:02:11.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T20:20:31.762Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\9_Large and odd\\Program.cs",
-              "RelativeDocumentMoniker": "9_Large and odd\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\9_Large and odd\\Program.cs",
-              "RelativeToolTip": "9_Large and odd\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA6wAcAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\11_The largest of the three\\Program.cs",
+              "RelativeDocumentMoniker": "11_The largest of the three\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\11_The largest of the three\\Program.cs",
+              "RelativeToolTip": "11_The largest of the three\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T19:54:29.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\n-th digit\\Program.cs",
-              "RelativeDocumentMoniker": "n-th digit\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\n-th digit\\Program.cs",
-              "RelativeToolTip": "n-th digit\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAASwBEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T18:24:25.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-09-14T20:07:20.523Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Last digit\\Program.cs",
-              "RelativeDocumentMoniker": "Last digit\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Last digit\\Program.cs",
-              "RelativeToolTip": "Last digit\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\10_Pure divider\\Program.cs",
+              "RelativeDocumentMoniker": "10_Pure divider\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\10_Pure divider\\Program.cs",
+              "RelativeToolTip": "10_Pure divider\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T18:13:43.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T20:02:11.115Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Trapezium\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\9_Large and odd\\Program.cs",
+              "RelativeDocumentMoniker": "9_Large and odd\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\9_Large and odd\\Program.cs",
+              "RelativeToolTip": "9_Large and odd\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:54:29.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\Trapezium\\Program.cs",
               "RelativeDocumentMoniker": "Trapezium\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Trapezium\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\Trapezium\\Program.cs",
               "RelativeToolTip": "Trapezium\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,24 +143,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Average\\Program.cs",
-              "RelativeDocumentMoniker": "Average\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Average\\Program.cs",
-              "RelativeToolTip": "Average\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T16:59:34.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\1_PrintYourColor\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\1_PrintYourColor\\Program.cs",
               "RelativeDocumentMoniker": "1_PrintYourColor\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\1_PrintYourColor\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\1_PrintYourColor\\Program.cs",
               "RelativeToolTip": "1_PrintYourColor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,43 +155,96 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\n-th digit\\Program.cs",
+              "RelativeDocumentMoniker": "n-th digit\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\n-th digit\\Program.cs",
+              "RelativeToolTip": "n-th digit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T18:24:25.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\Symbols and strings\\Program.cs",
+              "RelativeDocumentMoniker": "Symbols and strings\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\Symbols and strings\\Program.cs",
+              "RelativeToolTip": "Symbols and strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T16:50:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\14_Calculate N!\\Program.cs",
+              "RelativeDocumentMoniker": "14_Calculate N!\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\14_Calculate N!\\Program.cs",
+              "RelativeToolTip": "14_Calculate N!\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:04:07.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\Last digit\\Program.cs",
+              "RelativeDocumentMoniker": "Last digit\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\Last digit\\Program.cs",
+              "RelativeToolTip": "Last digit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T18:13:43.704Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Symbols and strings\\Program.cs",
-              "RelativeDocumentMoniker": "Symbols and strings\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Symbols and strings\\Program.cs",
-              "RelativeToolTip": "Symbols and strings\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA8AAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\Average\\Program.cs",
+              "RelativeDocumentMoniker": "Average\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\Average\\Program.cs",
+              "RelativeToolTip": "Average\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T16:50:26.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T16:59:34.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Float\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\Float\\Program.cs",
               "RelativeDocumentMoniker": "Float\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Float\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\Float\\Program.cs",
               "RelativeToolTip": "Float\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T16:39:41.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T16:39:41.043Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Integer\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\OOP\\PR\\PR1\\Integer\\Program.cs",
               "RelativeDocumentMoniker": "Integer\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\PR\\PR1\\Integer\\Program.cs",
+              "ToolTip": "D:\\Study\\OOP\\PR\\PR1\\Integer\\Program.cs",
               "RelativeToolTip": "Integer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:36:37.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T07:36:37.348Z"
             }
           ]
         }

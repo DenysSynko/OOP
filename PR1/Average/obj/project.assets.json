@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Навчання\\ООП\\PR\\PR1\\Average\\5_Average.csproj",
+      "projectUniqueName": "D:\\Study\\OOP\\PR\\PR1\\Average\\5_Average.csproj",
       "projectName": "5_Average",
-      "projectPath": "D:\\Навчання\\ООП\\PR\\PR1\\Average\\5_Average.csproj",
+      "projectPath": "D:\\Study\\OOP\\PR\\PR1\\Average\\5_Average.csproj",
       "packagesPath": "C:\\Users\\Yellow\\.nuget\\packages\\",
-      "outputPath": "D:\\Навчання\\ООП\\PR\\PR1\\Average\\obj\\",
+      "outputPath": "D:\\Study\\OOP\\PR\\PR1\\Average\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

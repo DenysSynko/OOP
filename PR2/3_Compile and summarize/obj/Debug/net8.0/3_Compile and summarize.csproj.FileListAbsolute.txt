@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\3_Compile and summarize\bin\Debug\net8.0\3_Compile and summarize.exe
+D:\Study\OOP\PR\PR2\3_Compile and summarize\bin\Debug\net8.0\3_Compile and summarize.deps.json
+D:\Study\OOP\PR\PR2\3_Compile and summarize\bin\Debug\net8.0\3_Compile and summarize.runtimeconfig.json
+D:\Study\OOP\PR\PR2\3_Compile and summarize\bin\Debug\net8.0\3_Compile and summarize.dll
+D:\Study\OOP\PR\PR2\3_Compile and summarize\bin\Debug\net8.0\3_Compile and summarize.pdb
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\3_Compile and summarize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\3_Compile and summarize.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\3_Compile and summarize.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\3_Compile and summarize.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\3_Compile and summarize.sourcelink.json
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\3_Compile and summarize.dll
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\refint\3_Compile and summarize.dll
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\3_Compile and summarize.pdb
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\3_Compile and summarize.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\3_Compile and summarize\obj\Debug\net8.0\ref\3_Compile and summarize.dll

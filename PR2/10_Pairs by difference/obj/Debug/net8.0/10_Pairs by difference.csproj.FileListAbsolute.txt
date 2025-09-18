@@ -1,0 +1,15 @@
+D:\Study\OOP\PR\PR2\10_Pairs by difference\bin\Debug\net8.0\10_Pairs by difference.exe
+D:\Study\OOP\PR\PR2\10_Pairs by difference\bin\Debug\net8.0\10_Pairs by difference.deps.json
+D:\Study\OOP\PR\PR2\10_Pairs by difference\bin\Debug\net8.0\10_Pairs by difference.runtimeconfig.json
+D:\Study\OOP\PR\PR2\10_Pairs by difference\bin\Debug\net8.0\10_Pairs by difference.dll
+D:\Study\OOP\PR\PR2\10_Pairs by difference\bin\Debug\net8.0\10_Pairs by difference.pdb
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\10_Pairs by difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\10_Pairs by difference.AssemblyInfoInputs.cache
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\10_Pairs by difference.AssemblyInfo.cs
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\10_Pairs by difference.csproj.CoreCompileInputs.cache
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\10_Pairs by difference.sourcelink.json
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\10_Pairs by difference.dll
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\refint\10_Pairs by difference.dll
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\10_Pairs by difference.pdb
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\10_Pairs by difference.genruntimeconfig.cache
+D:\Study\OOP\PR\PR2\10_Pairs by difference\obj\Debug\net8.0\ref\10_Pairs by difference.dll
